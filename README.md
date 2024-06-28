@@ -1,2 +1,3 @@
 # Project_UAS_PBO
-Kelompok 
+### Kelompok 
+Anggota: Julhan Abdul Malik - Amelinda Renjani - Rayhansyah
